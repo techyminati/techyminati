@@ -1,5 +1,5 @@
 <h3 align="center"> Hi there, I'm Aryan Sinha. </h3>
-An enthusiast developer from India.<br>
+An Enthusiast Developer from India.<br>
 - AOSP ROMs , Kernel developer and Lead Dev at <a href="https://github.com/CipherOS">CipherOS</a> .<br>
 - Learning Java, C, and Kotlin. <br>
 - Love to play around with MediaTek Devices.<br>

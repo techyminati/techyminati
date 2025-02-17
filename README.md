@@ -9,4 +9,4 @@ An Enthusiast Developer from India.<br>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=techyminati&style=flat-square" alt="techyminati" /> </p>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=techyminati&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="stats"/><br></p>
-<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=techyminati&theme=dark"/></p>
+<p align="center"> <img src="https://github-readme-streak-stats-three-opal.vercel.app/?user=techyminati&theme=darcula&border_radius=6.9%22"/></p>
